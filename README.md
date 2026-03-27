@@ -1,3 +1,6 @@
+You can Download The App From The Releases Tab In The Left Side
+
+
 # Drive Shower
 
 A simple Python desktop app that shows all connected storage devices (HDD, SSD, USB).  
